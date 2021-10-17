@@ -1,7 +1,3 @@
 # Livegram-Bot
-Some basic Git commands are:
-```
-git status
-git add
-git commit
-```
+Telegram feedback bot (Livegram bot) using **pyTelegramBotAPI** and **sqlite3**.
+## How bot works?
