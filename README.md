@@ -15,3 +15,9 @@ First, install pyTelegramBotAPI.
 
 Then
 `$ python main.py`
+
+
+If you have found a bug, create an issue.
+If you like my code, press star and share repo!
+
+Contact(Telegram): [@coder2077](https://t.me/coder2077)
