@@ -8,3 +8,10 @@ Send `/start` command and send message for sending feedback. Then bot forwards m
 `/login` Being admin in bot.
 
 `/post`  Sending post to all bot users.
+
+## How to run bot?
+First, install pyTelegramBotAPI.
+`$ pip install pyTelegramBotAPI`
+
+Then
+`$ python main.py`
